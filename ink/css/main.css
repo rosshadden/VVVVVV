@@ -1,0 +1,18 @@
+body{
+	margin:0; padding:0;
+	background:#333;
+	color:#fff;
+	font-size:14px;
+}
+#main{
+	width:600px;
+	margin:20px auto 0; padding:20px;
+	border:2px solid #000; border-radius:10px;
+	background:#363;
+}
+	#content{
+		position:relative;
+		width:600px; height:400px;
+		outline:2px solid #000;
+		background:#666;
+	}
